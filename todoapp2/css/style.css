@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    word-wrap: break-all;
+}
+.strikethroughDone{
+    text-decoration: line-through;
+}
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    color: #444;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 8rem;
+    color: aqua;
+
+}
+.container{
+    text-align: center;
+    padding: 31px;
+    width: 520px;
+    border: none;
+}
+.submit{
+    width: 100px;
+    height: 29px;
+}
+.todoTable{
+    text-align: center;
+    margin: 15px auto 0;
+}
